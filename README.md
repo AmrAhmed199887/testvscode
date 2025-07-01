@@ -1,5 +1,6 @@
 # Prerequisites
 #
+- testing comment
 - JDK 17 
 - Maven 3.9 
 - MySQL 8
